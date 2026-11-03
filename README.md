@@ -1,1 +1,3 @@
 # SmartBite_be_api_Kitchen_Management
+
+Kitchen Management API for SmartBite.

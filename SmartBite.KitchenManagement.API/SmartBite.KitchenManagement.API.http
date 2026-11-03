@@ -1,0 +1,6 @@
+@SmartBite.KitchenManagement.API_HostAddress = http://localhost:5200
+
+GET {{SmartBite.KitchenManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

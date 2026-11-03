@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartBite.KitchenManagement.API/SmartBite.KitchenManagement.API.csproj" />
+  <Project Path="SmartBite.KitchenManagement.Application/SmartBite.KitchenManagement.Application.csproj" />
+  <Project Path="SmartBite.KitchenManagement.Domain/SmartBite.KitchenManagement.Domain.csproj" />
+  <Project Path="SmartBite.KitchenManagement.Infrastructure/SmartBite.KitchenManagement.Infrastructure.csproj" />
+</Solution>
